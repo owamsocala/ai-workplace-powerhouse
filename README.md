@@ -1,5 +1,28 @@
 # Worksmith AI — Workplace Productivity Assistant
 
+> **Build Prompt**
+>
+> Build a modern, responsive web application called **AI Workplace Productivity Assistant** that helps professionals automate workplace tasks using AI.
+>
+> The application should include:
+> - Smart Email Generator
+> - Meeting Notes Summarizer
+> - AI Task Planner
+> - AI Research Assistant
+> - AI Chatbot Interface
+>
+> **Requirements:**
+> - Modern dashboard UI
+> - Sidebar navigation
+> - Responsive design
+> - Structured AI prompts
+> - Editable AI outputs
+> - Responsible AI disclaimer
+>
+> Design style should be clean, modern, and professional — similar to a SaaS platform.
+
+---
+
 A modern, responsive SaaS-style web app that helps professionals automate everyday workplace tasks with AI. Built with TanStack Start, React, Tailwind, and the Lovable AI Gateway (Google Gemini).
 
 ## ✨ Features
